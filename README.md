@@ -23,5 +23,48 @@ This project was developed by the DroneBlocks team to provide the following capa
 * [ffmpeg](https://github.com/kkroening/ffmpeg-python)
 * [Flask](https://github.com/pallets/flask)
 
+## Windows Installation
+Install git for windows: https://gitforwindows.org/
+
+Download and install Python 3 if it isn't already installed. 
+
+Check your python version in the git bash terminal:
+
+```
+python --version
+```
+
+Install pipenv, which creates Python virtual environments for you
+```
+pip install pipenv
+```
+
+Change to directory that will hold this project, e.g.
+```
+cd Documents
+```
+
+Clone this repository
+```
+git clone https://github.com/holyokecodes/DroneBlocks-Tello-Camera-With-Python-OpenCV.git
+```
+
+Change to this new directory
+```
+cd DroneBlocks-Tello-Camera-With-Python-OpenCV
+```
+
+Install dependencies. This will take a few minutes.
+```
+pipenv install
+```
+
+Start the app
+```
+python ./app.py
+```
+
+Open the app at [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
 ## Support
 If you need help installing dependencies please consider [purchasing our course](https://learn.droneblocks.io/p/opencv-python-and-droneblocks-for-tello-camera-control) to support this project. You can also feel free to [open an issue](https://github.com/dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV/issues) and join our [Facebook group](https://www.facebook.com/groups/droneblocks/).
