@@ -27,7 +27,7 @@ This project was developed by the DroneBlocks team to provide the following capa
 
 Install git to download this code. Use git for windows: https://gitforwindows.org/ or follow directions here for other operating systems: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-Check that you have Python 3.6 or greater in the git bash terminal.
+Git for windows comes with a terminal called git bash that will let you run commands to install and start this app. On mac, use Terminal. Check that you have Python 3.6 or greater in the git bash terminal.
 ```
 python --version
 ```
@@ -67,4 +67,4 @@ python ./app.py
 Open the app at [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ## Support
-If you need help installing dependencies please consider [purchasing our course](https://learn.droneblocks.io/p/opencv-python-and-droneblocks-for-tello-camera-control) to support this project. You can also feel free to [open an issue](https://github.com/dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV/issues) and join our [Facebook group](https://www.facebook.com/groups/droneblocks/).
+If you need help installing dependencies consider [purchasing the DroneBlocks course](https://learn.droneblocks.io/p/opencv-python-and-droneblocks-for-tello-camera-control) to support this project. You can also feel free to [open an issue](https://github.com/dbaldwin/DroneBlocks-Tello-Camera-With-Python-OpenCV/issues) and join our [Facebook group](https://www.facebook.com/groups/droneblocks/).
