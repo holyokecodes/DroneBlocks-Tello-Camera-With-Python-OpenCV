@@ -25,7 +25,7 @@ This project was developed by the DroneBlocks team to provide the following capa
 
 ## Installation
 
-Install git for windows: https://gitforwindows.org/ or follow directions here for other operating systems: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Install git to download this code. Use git for windows: https://gitforwindows.org/ or follow directions here for other operating systems: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 Check that you have Python 3.6 or greater in the git bash terminal.
 ```
