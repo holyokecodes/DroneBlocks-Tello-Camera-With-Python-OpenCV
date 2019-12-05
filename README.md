@@ -23,16 +23,16 @@ This project was developed by the DroneBlocks team to provide the following capa
 * [ffmpeg](https://github.com/kkroening/ffmpeg-python)
 * [Flask](https://github.com/pallets/flask)
 
-## Windows Installation
-Install git for windows: https://gitforwindows.org/
+## Installation
 
-Download and install Python 3 if it isn't already installed. 
+Install git for windows: https://gitforwindows.org/ or follow directions here for other operating systems: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-Check your python version in the git bash terminal:
-
+Check that you have Python 3.6 or greater in the git bash terminal.
 ```
 python --version
 ```
+
+Download and install the latest Python 3 if it isn't already installed. https://www.python.org/downloads/
 
 Install pipenv, which creates Python virtual environments for you
 ```
